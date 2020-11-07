@@ -1,0 +1,16 @@
+<resources>
+    <!--Do not Touch-->
+    <string name="app_name">CC17_Unit4_Lab</string>
+
+
+    <!--MainActiivty-->
+    <string name="mainact_button1">Login</string>
+
+
+
+    <!--Activity2-->>
+    <string name="button1">Video</string>
+    <string name="button2">Web Search</string>
+    <string name="button3">UC location</string>
+
+</resources>
